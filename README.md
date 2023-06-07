@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/5srr9tV/Unleash-your-tech-prowess-12h.png"  />
+  <img src="Frex IQ Banner.png"  />
 </div>
 
 <h2 align="left">Hi 👋! My name is Frex IQ nice to meet you,</h2>
