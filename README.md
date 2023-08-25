@@ -1,4 +1,5 @@
 <div align="center">
+  <a href="https://www.youtube.com/channel/UCbDmI8zZKUGbFlAo39-SiqQ" target="_blank">
   <img src="Frex IQ Banner.png"  />
 </div>
 
